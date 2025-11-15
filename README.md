@@ -1,3 +1,8 @@
+## Get Involved 🚀
+- Star/Fork if this sparks ideas!
+- Open issues for feedback (e.g., Optimus integration).
+- Inspired by @elonmusk's 100GW orbital AI vision – share your take!
+
 # J.E.S.S. — Justice Exascale Solar Swarm
 
 > *“Built for Jessica — because the future should run on justice, not gridlock.”*
